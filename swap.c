@@ -1,6 +1,5 @@
-//Student Name: Raj Kumar Nepal
-//Roll No: 
-//Subject: Fundamental of Programming
+//Author: Raj Kumar Nepal
+//Subject: Fundamental of C Programming
 //Program: Write a program to swap numbers.
 //Date: 18Oct, 2016
 
@@ -11,15 +10,17 @@ int main(){
 	scanf("%d",&a);
 	printf("Enter the value for b: ");
 	scanf("%d",&b);
-	
+	//Before Swap
 	printf("Orignal values \n");
 	printf("The value  of a is %d \n",a);
 	printf("The value  of a is %d \n",b);
 
-	
+	//Swap
 	temp=a;
 	a=b;
 	b=temp;
+	
+	//After Swap
 	printf("\n New values \n");
 	printf("The new value of a is %d .\n", a);
 	printf("The new value of a is %d .", b);
