@@ -1,8 +1,7 @@
-//Student Name: Raj Kumar Nepal
-//Roll No: 
-//Subject: Fundamental of Programming
-//Program: Write a program to use assign operator.
-//Date: 20Oct, 2016
+//Author: Raj Kumar Nepal
+//Subject: Fundamental of C Programming
+//Program: Write a program showing use of assignment operator.
+//Date: 20 Oct, 2016
 
 #include<stdio.h>
 #include<math.h>
@@ -13,33 +12,33 @@ int main(){
 	printf("Enter the value of b: ");
 	scanf("%d",&b);
 	
-		//a+=b >> a=a+b
+		//a+=b mean a=a+b
 
 	a+=b;
 	printf("The result of a+=b operator is %d . \n", a);
 	
-		//a-+b >> a=a-b
+		//a-+b mean a=a-b
 		
 	a-=b;
 	printf("The result of a-=b operator is %d . \n", a);
 
 	
-		//a*=b >> a=a*b
+		//a*=b mean a=a*b
 		
 	a*=b;
 	printf("The result of a*=b operator is %d \n", a);
 
-		//a/=b >> a=a/b
+		//a/=b mean a=a/b
 		
 	a/=b;
 	printf("The result of a/=b operator is %d \n", a);
 	
-		//a%=b >> a=a%b
+		//a%=b mean a=a%b
 	
 	a%=b;
 	printf("The result of a%=b operator is %d \n", a);
 		
-		//a=b >> replaces value
+		//a=b replaces value
 
 	a=b;
 	printf("The result of a=b operator is %d \n", a);
