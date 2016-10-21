@@ -13,7 +13,7 @@ int main(){
 	//Before Swap
 	printf("Orignal values \n");
 	printf("The value  of a is %d \n",a);
-	printf("The value  of a is %d \n",b);
+	printf("The value  of b is %d \n",b);
 
 	//Swap
 	temp=a;
@@ -23,7 +23,7 @@ int main(){
 	//After Swap
 	printf("\n New values \n");
 	printf("The new value of a is %d .\n", a);
-	printf("The new value of a is %d .", b);
+	printf("The new value of b is %d .", b);
 	
 	return 0;
 }
