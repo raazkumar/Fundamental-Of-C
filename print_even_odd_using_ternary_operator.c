@@ -1,9 +1,7 @@
-//Student Name: Raj Kumar Nepal
-//Roll No: 
-//Subject: Fundamental of Programming
+//Author: Raj Kumar Nepal
+//Subject: Fundamental of C Programming
 //Program: Write a program to take two input from user and print even and odd number using ternary operator....
 //Date: 24 Oct, 2016
-
 
 #include<stdio.h>
 int main()
