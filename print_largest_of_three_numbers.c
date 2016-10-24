@@ -1,7 +1,7 @@
-//Student Name: Raj Kumar Nepal
-//Roll No: 
+//Author: Raj Kumar Nepal 
 //Subject: Fundamental of Programming
-//Program: Write a program to print greatest among three numbers.
+//Program: Write a program to print largest among three numbers.
+//Date: 19 Oct, 2016
 
 #include<stdio.h>
 int main(){
@@ -25,26 +25,39 @@ int main(){
 		printf("%d is greatest. \n",c);
 		}
 	
-		
-	//Checking via nested loop..
-	
+
+return 0;
+}
+
+
+
+//Checking via nested loop..
+
+
+#include<stdio.h>
+int main(){
+	int a,b,c;
+	printf("Enter first number: ");
+	scanf("%d",&a);
+	printf("Enter second number: ");
+	scanf("%d",&b);
+	printf("Enter third number: ");
+	scanf("%d",&c);
+
 	if (a>=b)
-    {
+	{
         if(a>=c)
             printf("%d is the greatest.", a);
         else
             printf("%d is greatest.", c);
-    }
-    else
-    {
+    	}
+   	 else
+   	 {
         if(b>=c)
             printf("%d is the greatest.", b);
         else
             printf("%d is the greatest.",c);
-    }
+    	}
 	
-	
-	
-
-return 0;
+return 0;	
 }
