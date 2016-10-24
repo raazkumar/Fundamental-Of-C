@@ -1,5 +1,4 @@
-//Student Name: Raj Kumar Nepal
-//Roll No: 
+//Author: Raj Kumar Nepal 
 //Subject: Fundamental of Programming
 //Program: Write a program to check whether the number is even or odd.
 //Date: 19Oct, 2016
