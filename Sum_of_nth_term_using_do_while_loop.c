@@ -1,6 +1,6 @@
 //Author: Raj Kumar Nepal
 //Subject: Fundamental of C Programming
-//Program: Write a C program to find the sum of nth term using do while loop.
+//Program: Write a C program to find the sum of nth term using do while loop
 //Date: 25 Oct, 2016
 
 
