@@ -2,7 +2,7 @@
 Author: Raj Kumar Nepal
 Subject: Fundamentals of C Programming
 Program: Write a program to find sum of first n natural number.
-Date: 2016/11/20
+Date: 2016/11/22
 */
 
 #include<stdio.h>
