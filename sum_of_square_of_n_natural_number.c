@@ -20,9 +20,5 @@ int main(){
 	printf("The sum is square of %d natural number is %d",n,sum);
 	
 	
-	
-	
-	
-	
 return 0;	
 }
